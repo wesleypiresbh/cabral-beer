@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///home/wesley/cabral-beer/src/components/Button.jsx"],"sourcesContent":["'use client';\nexport default function Button({ children, onClick, variant = \"primary\" }) {\n  const baseStyles = \"px-4 py-2 rounded text-white font-semibold focus:outline-none\";\n  const variants = {\n    primary: \"bg-blue-600 hover:bg-blue-700\",\n    secondary: \"bg-gray-600 hover:bg-gray-700\",\n    danger: \"bg-red-600 hover:bg-red-700\"\n  };\n\n  return (\n    <button className={`${baseStyles} ${variants[variant]}`} onClick={onClick}>\n      {children}\n    </button>\n  );\n}\n\n"],"names":[],"mappings":";;;;AAAA;;AACe,SAAS,OAAO,EAAE,QAAQ,EAAE,OAAO,EAAE,UAAU,SAAS,EAAE;IACvE,MAAM,aAAa;IACnB,MAAM,WAAW;QACf,SAAS;QACT,WAAW;QACX,QAAQ;IACV;IAEA,qBACE,8OAAC;QAAO,WAAW,GAAG,WAAW,CAAC,EAAE,QAAQ,CAAC,QAAQ,EAAE;QAAE,SAAS;kBAC/D;;;;;;AAGP","debugId":null}}]
+}

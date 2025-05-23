@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Cerveja Skol Lager 600ml",
+    "description": "Cerveja leve e refrescante.",
+    "price": 5.99,
+    "image": "/images/categories/cervejas/LataSKOL473ml.png",
+    "type": "lager",
+    "category": "cervejas"
+  },
+  {
+    "id": 2,
+    "name": "Cerveja Eisenbahn Pilsen 600ml",
+    "description": "Cerveja premium sabor clássico.",
+    "price": 7.49,
+    "image": "/images/categories/cervejas/CervEISEN600ml.png",
+    "type": "pilsen",
+    "category": "cervejas"
+  },
+  {
+    "id": 3,
+    "name": "Cerveja Original Pilsen 600ml",
+    "description": "Cerveja amarga e equilibrada.",
+    "price": 6.99,
+    "image": "/images/categories/cervejas/CervORIG600ml.png",
+    "type": "pilsen",
+    "category": "cervejas"
+  },
+  {
+    "id": 4,
+    "name": "Cerveja Bohemia Pilsen 600ml",
+    "description": "Cerveja tradicional com sabor marcante.",
+    "price": 6.49,
+    "image": "/images/categories/cervejas/CervBOH600ml.png",
+    "type": "pilsen",
+    "category": "cervejas"
+  },
+  {
+    "id": 5,
+    "name": "Cerveja Itaipava Pilsen 600ml",
+    "description": "Cerveja sabor suave e equilibrada.",
+    "price": 6.29,
+    "image": "/images/categories/cervejas/CervITAI600ml.png",
+    "type": "pilsen",
+    "category": "cervejas"
+  },
+  {
+    "id": 6,
+    "name": "Cerveja BRH Pilsen 600ml",
+    "description": "Cerveja artesanal com sabor robusto.",
+    "price": 6.99,
+    "image": "/images/categories/cervejas/CervBRH600ml.png",
+    "type": "pilsen",
+    "category": "cervejas"
+  },
+  {
+    "id": 7,
+    "name": "Cerveja Kais Pilsen 473ml",
+    "description": "Cerveja leve e refrescante.",
+    "price": 5.99,
+    "image": "/images/categories/cervejas/LataKAIS473ml.png",
+    "type": "lager",
+    "category": "cervejas"
+  },
+  {
+    "id": 8,
+    "name": "Cerveja Lokal Pilsen 473ml",
+    "description": "Cerveja artesanal sabor suave.",
+    "price": 6.29,
+    "image": "/images/categories/cervejas/LataLOK473ml.png",
+    "type": "pilsen",
+    "category": "cervejas"
+  },
+  {
+    "id": 9,
+    "name": "Cerveja Spätburgunder Pilsen 473ml",
+    "description": "Cerveja premium com sabor encorpado.",
+    "price": 7.49,
+    "image": "/images/categories/cervejas/LataSPAT473ml.png",
+    "type": "pilsen",
+    "category": "cervejas"
+  },
+  {
+    "id": 10,
+    "name": "Cerveja IPA 600ml",
+    "description": "Cerveja amarga e cítrica com notas herbáceas.",
+    "price": 8.99,
+    "image": "/images/categories/cervejas/00ipa.jpg",
+    "type": "ipa",
+    "category": "cervejas"
+  },
+  {
+    "id": 11,
+    "name": "Cerveja Lager Clássica",
+    "description": "Cerveja clara, leve e refrescante.",
+    "price": 5.99,
+    "image": "/images/categories/cervejas/lager.jpg",
+    "type": "lager",
+    "category": "cervejas"
+  },
+  {
+    "id": 12,
+    "name": "Cerveja Stout Encorpada",
+    "description": "Cerveja escura com sabor de chocolate e café.",
+    "price": 9.99,
+    "image": "/images/categories/cervejas/stout.jpg",
+    "type": "stout",
+    "category": "cervejas"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Energético Monster Black 473ml",
+    "description": "Energético sabor forte e energizante.",
+    "price": 5.99,
+    "image": "/public/images/energetico/monsterBlcak473ml.png",
+    "type": "energético",
+    "category": "energeticos"
+  },
+  {
+    "id": 2,
+    "name": "Energético Red Bull Original 250ml",
+    "description": "O clássico energético mais conhecido.",
+    "price": 6.49,
+    "image": "/public/images/energetico/redebullOriginal250ml.png",
+    "type": "energético",
+    "category": "energeticos"
+  },
+  {
+    "id": 3,
+    "name": "Energético TNT Original 473ml",
+    "description": "Energético refrescante e potente.",
+    "price": 5.79,
+    "image": "/public/images/energetico/tntOrigina473ml.png",
+    "type": "energético",
+    "category": "energeticos"
+  },
+  {
+    "id": 4,
+    "name": "Energético Monster Juice 473ml",
+    "description": "Sabor frutado e energético potente.",
+    "price": 5.99,
+    "image": "/public/images/energetico/MosterJuice473ml.png",
+    "type": "energético",
+    "category": "energeticos"
+  },
+  {
+    "id": 5,
+    "name": "Energético Baly Abacaxi 473ml",
+    "description": "Sabor abacaxi suave e energético.",
+    "price": 5.69,
+    "image": "/public/images/energetico/Baly_Abacaxi473ml.png",
+    "type": "energético",
+    "category": "energeticos"
+  }
+]

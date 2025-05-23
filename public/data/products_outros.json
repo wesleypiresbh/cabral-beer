@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Amendoim Japonês 100g",
+    "description": "Snack crocante e saboroso.",
+    "price": 3.99,
+    "image": "/images/categories/outros/amendoimJapones100g.png",
+    "type": "snack",
+    "category": "outros"
+  },
+  {
+    "id": 2,
+    "name": "Bala Halls Extra Forte",
+    "description": "Bala sabor forte e duradoura.",
+    "price": 2.49,
+    "image": "/images/categories/outros/bala-halls-extra-forte.png",
+    "type": "bala",
+    "category": "outros"
+  },
+  {
+    "id": 3,
+    "name": "Chocolate ao Leite 80g",
+    "description": "Chocolate cremoso e delicioso.",
+    "price": 4.99,
+    "image": "/images/categories/outros/chocolateaoLeite80g.png",
+    "type": "chocolate",
+    "category": "outros"
+  },
+  {
+    "id": 4,
+    "name": "Fandangos",
+    "description": "Docinho tradicional brasileiro.",
+    "price": 5.49,
+    "image": "/images/categories/outros/fandangos.png",
+    "type": "doce",
+    "category": "outros"
+  },
+  {
+    "id": 5,
+    "name": "Recheado Ouro Branco 98g",
+    "description": "Docinho recheado com creme de chocolate branco.",
+    "price": 3.99,
+    "image": "/images/categories/outros/recheado-ouro-branco-98g.png",
+    "type": "recheado",
+    "category": "outros"
+  },
+  {
+    "id": 6,
+    "name": "Torcida Camarão",
+    "description": "Salgadinho crocante sabor camarão.",
+    "price": 4.49,
+    "image": "/images/categories/outros/torcidaCamarão.png",
+    "type": "salgadinho",
+    "category": "outros"
+  }
+]

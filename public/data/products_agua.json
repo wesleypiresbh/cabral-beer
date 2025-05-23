@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Água Indaia Natural 500ml",
+    "description": "Água mineral natural sem gás.",
+    "price": 2.99,
+    "image": "/images/categories/agua/AguaIndaia500ml.png",
+    "type": "natural",
+    "category": "agua"
+  },
+  {
+    "id": 2,
+    "name": "Água Prata 300ml",
+    "description": "Água pura e refrescante.",
+    "price": 1.99,
+    "image": "/images/categories/agua/AguaPrata300ml.png",
+    "type": "natural",
+    "category": "agua"
+  },
+  {
+    "id": 3,
+    "name": "Água Indaia Gasosa 500ml",
+    "description": "Água gasosa saborizada.",
+    "price": 3.49,
+    "image": "/images/categories/agua/AguaIndaiaGas500ml.png",
+    "type": "gasosa",
+    "category": "agua"
+  }
+]

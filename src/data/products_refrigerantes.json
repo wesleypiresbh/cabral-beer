@@ -1,0 +1,57 @@
+// src/data/products_refrigerantes.json
+[
+  {
+    "id": 1,
+    "name": "Refrigerante Coca-Cola 350ml",
+    "description": "Sabor cola refrescante.",
+    "price": 4.99,
+    "image": "/images/refrigerantes/RefriCOCA350ml.png",
+    "type": "cola",
+    "category": "refrigerantes"
+  },
+  {
+    "id": 2,
+    "name": "Refrigerante Fanta Laranja 350ml",
+    "description": "Sabor laranja refrescante.",
+    "price": 4.79,
+    "image": "/images/refrigerantes/RefriFANTA350ml.png",
+    "type": "laranja",
+    "category": "refrigerantes"
+  },
+  {
+    "id": 3,
+    "name": "Refrigerante Guaraná Antarctica 350ml",
+    "description": "Sabor guaraná tradicional.",
+    "price": 4.69,
+    "image": "/images/refrigerantes/RefriGUAR350ml.png",
+    "type": "guaraná",
+    "category": "refrigerantes"
+  },
+  {
+    "id": 4,
+    "name": "Refrigerante Pepsi 350ml",
+    "description": "Sabor pepsi refrescante.",
+    "price": 4.89,
+    "image": "/images/refrigerantes/RefriPEPS350ml.png",
+    "type": "pepsi",
+    "category": "refrigerantes"
+  },
+  {
+    "id": 5,
+    "name": "Refrigerante Sprite 350ml",
+    "description": "Sabor limão-lima refrescante.",
+    "price": 4.99,
+    "image": "/images/refrigerantes/RefriSPRI350ml.png",
+    "type": "limão-lima",
+    "category": "refrigerantes"
+  },
+  {
+    "id": 6,
+    "name": "Refrigerante Sukita Uva 350ml",
+    "description": "Sabor uva suave e refrescante.",
+    "price": 4.79,
+    "image": "/images/refrigerantes/RefriSUK350ml.png",
+    "type": "uva",
+    "category": "refrigerantes"
+  }
+]

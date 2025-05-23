@@ -1,0 +1,81 @@
+[
+  {
+    "id": "cerveja_brahma_600ml",
+    "name": "Cerveja Brahma 600ml",
+    "category": "cervejas",
+    "price": 6.99,
+    "image": "/images/categories/cervejas/CervBRH600ml.png",
+    "options": ["1 unidade", "12 unidades", "24 unidades"]
+  },
+  {
+    "id": "cerveja_skol_600ml",
+    "name": "Cerveja Skol 600ml",
+    "category": "cervejas",
+    "price": 5.99,
+    "image": "/images/categories/cervejas/CervSKOL600ml.png",
+    "options": ["1 unidade", "12 unidades", "24 unidades"]
+  },
+  {
+    "id": "cerveja_eisenbahn_600ml",
+    "name": "Cerveja Eisenbahn 600ml",
+    "category": "cervejas",
+    "price": 7.49,
+    "image": "/images/categories/cervejas/CervEISEN600ml.png",
+    "options": ["1 unidade", "12 unidades", "24 unidades"]
+  },
+  {
+    "id": "cerveja_original_600ml",
+    "name": "Cerveja Original 600ml",
+    "category": "cervejas",
+    "price": 8.99,
+    "image": "/images/categories/cervejas/CervORIG600ml.png",
+    "options": ["1 unidade", "12 unidades", "24 unidades"]
+  },
+  {
+    "id": "cerveja_itaipava_600ml",
+    "name": "Cerveja Itaipava 600ml",
+    "category": "cervejas",
+    "price": 4.99,
+    "image": "/images/categories/cervejas/CervITAI600ml.png",
+    "options": ["1 unidade", "12 unidades", "24 unidades"]
+  },
+  {
+    "id": "cerveja_boh_600ml",
+    "name": "Cerveja Bohêmia 600ml",
+    "category": "cervejas",
+    "price": 7.99,
+    "image": "/images/categories/cervejas/CervBOH600ml.png",
+    "options": ["1 unidade", "12 unidades", "24 unidades"]
+  },
+  {
+    "id": 4,
+    "name": "Água Prata 300ml",
+    "category": "Água",
+    "price": 2.50,
+    "image": "/images/agua/AguaPrata300ml.png",
+    "variations": [
+      { "label": "1 Unidade", "multiplier": 1 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Água Indaiá 500ml",
+    "category": "Água",
+    "price": 2.80,
+    "image": "/images/agua/AguaIndaia500ml.png",
+    "variations": [
+      { "label": "1 Unidade", "multiplier": 1 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Refrigerante Coca-Cola 2L",
+    "category": "Refrigerantes",
+    "price": 7.00,
+    "image": "/images/refrigerantes/PetCOCA2L.png",
+    "variations": [
+      { "label": "1 Unidade", "multiplier": 1 }
+    ]
+  }
+]
+

@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Amendoim Japonês 100g",
+    "description": "Snack crocante e saboroso.",
+    "price": 3.99,
+    "image": "/public/images/outros/amendoimJapones100g.png",
+    "type": "snack",
+    "category": "outros"
+  }
+]

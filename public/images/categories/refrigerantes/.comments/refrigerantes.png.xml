@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>Serving a Cola from a bottle to a glass full of ice</caption>
+  <note>Serving a Cola from a bottle to a glass full of ice</note>
+  <place/>
+  <categories>
+    <category value="anhydrous"/>
+    <category value="black"/>
+    <category value="bottle"/>
+    <category value="bubbles"/>
+    <category value="caffeine"/>
+    <category value="carbonic"/>
+    <category value="carbonic anhydride"/>
+    <category value="close up"/>
+    <category value="coke"/>
+    <category value="cola"/>
+    <category value="cold"/>
+    <category value="cube"/>
+    <category value="dark"/>
+    <category value="drink"/>
+    <category value="flavor"/>
+    <category value="food"/>
+    <category value="glass"/>
+    <category value="healthy"/>
+    <category value="ice"/>
+    <category value="ices"/>
+    <category value="jet"/>
+    <category value="macro"/>
+    <category value="overflow"/>
+    <category value="refreshing"/>
+    <category value="rim"/>
+    <category value="serve"/>
+    <category value="soda"/>
+    <category value="soft drink"/>
+    <category value="spout"/>
+    <category value="straw"/>
+    <category value="sugar"/>
+    <category value="summer"/>
+    <category value="sweet"/>
+    <category value="unhealthy"/>
+  </categories>
+</comment>

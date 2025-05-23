@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Cachaça 51 1L",
+    "description": "Cachaça premium com sabor intenso e longa duração.",
+    "price": 24.99,
+    "image": "/images/categories/destilados/cachaça51_1L.png",
+    "type": "cachaça",
+    "category": "destilados"
+  },
+  {
+    "id": 2,
+    "name": "Absolut Regular 1L",
+    "description": "Vodka sueca suave e versátil.",
+    "price": 28.99,
+    "image": "/images/categories/destilados/absolut_regular_1l.png",
+    "type": "vodka",
+    "category": "destilados"
+  },
+  {
+    "id": 3,
+    "name": "Conhaque Hennessy Very Special 700ml",
+    "description": "Conhaque francês famoso por seu sabor complexo e equilibrado.",
+    "price": 59.99,
+    "image": "/images/categories/destilados/Conh Francês Hennessy Very Special 700ml.png",
+    "type": "conhaque",
+    "category": "destilados"
+  },
+  {
+    "id": 4,
+    "name": "Red Label 1L",
+    "description": "Whisky escocês leve e suave, ideal para novatos.",
+    "price": 34.99,
+    "image": "/images/categories/destilados/redLabel _1L.png",
+    "type": "whisky",
+    "category": "destilados"
+  },
+  {
+    "id": 5,
+    "name": "Tanqueray Old Tom Gin 700ml",
+    "description": "Gin artesanal com sabores herbáceos e doces.",
+    "price": 49.99,
+    "image": "/images/categories/destilados/tanqueray-old-tom-gin.png",
+    "type": "gin",
+    "category": "destilados"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "cervejas",
+    "name": "Cervejas",
+    "description": "As melhores cervejas nacionais e importadas.",
+    "image": "/images/categories/cervejas/cervejas.png"
+  },
+  {
+    "slug": "refrigerantes",
+    "name": "Refrigerantes",
+    "description": "Sua bebida refrescante favorita.",
+    "image": "/images/categories/refrigerantes/refrigerantes.png"
+  },
+  {
+    "slug": "agua",
+    "name": "Água",
+    "description": "Águas naturais e com gás para sua hidratação.",
+    "image": "/images/categories/agua/agua.png"
+  },
+  {
+    "slug": "energeticos",
+    "name": "Energéticos",
+    "description": "Mais energia para sua rotina ou balada.",
+    "image": "/images/categories/energetico/energetico.png"
+  },
+  {
+    "slug": "destilados",
+    "name": "Destilados",
+    "description": "As melhores opções de destilados.",
+    "image": "/images/categories/destilados/destilados.png"
+  },
+  {
+    "slug": "outros",
+    "name": "Outros",
+    "description": "Chocolates, cigarros e outros produtos.",
+    "image": "/images/categories/outros/outros.png"
+  }
+]

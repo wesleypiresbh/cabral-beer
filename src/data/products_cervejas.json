@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Cerveja Skol Lager 600ml",
+    "description": "Cerveja pilsen leve e refrescante.",
+    "price": 5.99,
+    "image": "/public/images/cervejas/LataSKOL473ml.png",
+    "type": "lager",
+    "category": "cervejas"
+  },
+  {
+    "id": 2,
+    "name": "Cerveja Eisenbrau Pilsen 600ml",
+    "description": "Cerveja premium sabor clássico.",
+    "price": 7.49,
+    "image": "/public/images/cervejas/CervEISEN600ml.png",
+    "type": "pilsen",
+    "category": "cervejas"
+  },
+  {
+    "id": 3,
+    "name": "Cerveja Original Pilsen 600ml",
+    "description": "Cerveja amarga e equilibrada.",
+    "price": 6.99,
+    "image": "/public/images/cervejas/CervORIG600ml.png",
+    "type": "pilsen",
+    "category": "cervejas"
+  },
+  {
+    "id": 4,
+    "name": "Cerveja Bohemia Pilsen 600ml",
+    "description": "Cerveja tradicional com sabor marcante.",
+    "price": 6.49,
+    "image": "/public/images/cervejas/CervBOH600ml.png",
+    "type": "pilsen",
+    "category": "cervejas"
+  },
+  {
+    "id": 5,
+    "name": "Cerveja Itaipava Pilsen 600ml",
+    "description": "Cerveja sabor suave e equilibrada.",
+    "price": 6.29,
+    "image": "/public/images/cervejas/CervITAI600ml.png",
+    "type": "pilsen",
+    "category": "cervejas"
+  },
+  {
+    "id": 6,
+    "name": "Cerveja Kaiser Pilsen 473ml",
+    "description": "Cerveja leve e refrescante.",
+    "price": 5.89,
+    "image": "/public/images/cervejas/LataKAIS473ml.png",
+    "type": "pilsen",
+    "category": "cervejas"
+  },
+  {
+    "id": 7,
+    "name": "Cerveja Eisenbrau 473ml",
+    "description": "Cerveja premium em lata.",
+    "price": 6.99,
+    "image": "/public/images/cervejas/LataEISEN473.png",
+    "type": "pilsen",
+    "category": "cervejas"
+  },
+  {
+    "id": 8,
+    "name": "Cerveja Lokal Pilsen 473ml",
+    "description": "Cerveja alemã sabor intensa.",
+    "price": 5.99,
+    "image": "/public/images/cervejas/LataLOK473ml.png",
+    "type": "pilsen",
+    "category": "cervejas"
+  },
+  {
+    "id": 9,
+    "name": "Cerveja Spaten Pilsen 473ml",
+    "description": "Cerveja tradicional alemã.",
+    "price": 6.79,
+    "image": "/public/images/cervejas/LataSPAT473ml.png",
+    "type": "pilsen",
+    "category": "cervejas"
+  },
+  {
+    "id": 10,
+    "name": "IPA - 00 IPA 350ml",
+    "description": "Cerveja artesanal tipo IPA, sabor forte e amargo.",
+    "price": 8.99,
+    "image": "/public/images/cervejas/00ipa.jpg",
+    "type": "ipa",
+    "category": "cervejas"
+  }
+]
